@@ -39,6 +39,10 @@ reference. You don't have to order from Mouser but I also included their part nu
 their datasheets to find substitutes. I also created a shared [Mouser Project](https://www.mouser.com/Tools/Project/Share?AccessID=db4092a81a)
 that you can use to check part availability and add all the components from the table to your cart at once.
 
+If you're located in the US then you could [order 3 PCBs from OSH Park](https://oshpark.com/shared_projects/GrWe0x9J) for a reasonable amount,
+or any cheap PCB manufacturer that you're comfortable with can do it.
+
+
 | Reference | Qty | Value             | Mfr                  | MfrPartNo        | MouserPartNo         |
 |-----------|-----|-------------------|----------------------|------------------|----------------------|
 |  C1       |  1  | 0.1µ              | Vishay               | A104K15X7RF5TAA  | 594-A104K15X7RF5TAA  |
@@ -51,9 +55,8 @@ that you can use to check part availability and add all the components from the 
 |  U1       |  1  | DIP-8 Socket      | TE Connectivity      | 1-2199298-2      | 571-1-2199298-2      |
 |           |  2  | 20 Pin IDC socket | Wurth Elektronik     | 61202023021      | 710-61202023021      |
 
-In addition to these parts, you will also need a short length of 20 conductor 1.27mm pitch ribbon cable for the cable between your disk
+In addition to these components, you will also need a short length of 20 conductor 1.27mm pitch ribbon cable for the cable between your disk
 emulator and the clacker. This is easy enough to salvage from old PC ribbon cables.
-
 
 
 ### Assembling

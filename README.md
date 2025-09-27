@@ -4,7 +4,7 @@ This is a small circuit to generate fake disk-seeking noises for Apple II disk e
 mechanical relay. It connects transparently between the Apple II and any disk emulator to detect
 disk activity and make noises.
 
-<sample video>
+https://github.com/user-attachments/assets/748217c7-e036-4df3-93b7-2d29ec6acae3
 
 This should work with:
  * BMOW Floppy Emu in 5.25" mode (tested)

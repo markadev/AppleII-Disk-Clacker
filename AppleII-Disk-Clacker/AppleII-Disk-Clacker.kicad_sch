@@ -3907,6 +3907,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C"
@@ -3955,7 +3956,7 @@
 				(hide yes)
 			)
 		)
-		(property "MouserPartNo" " 523-AWHSH105D00G"
+		(property "MouserPartNo" "523-AWHSH105D00G"
 			(at 222.25 91.44 0)
 			(effects
 				(font
@@ -4362,7 +4363,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr" " Diotec Semiconductor"
+		(property "Mfr" "Diotec Semiconductor"
 			(at 214.63 109.22 0)
 			(effects
 				(font
@@ -4371,7 +4372,7 @@
 				(hide yes)
 			)
 		)
-		(property "MfrPartNo" " 2N3904"
+		(property "MfrPartNo" "2N3904"
 			(at 214.63 109.22 0)
 			(effects
 				(font
@@ -4380,7 +4381,7 @@
 				(hide yes)
 			)
 		)
-		(property "MouserPartNo" " 637-2N3904"
+		(property "MouserPartNo" "637-2N3904"
 			(at 214.63 109.22 0)
 			(effects
 				(font
@@ -4700,7 +4701,7 @@
 				(hide yes)
 			)
 		)
-		(property "MfrPartNo" " A104K15X7RF5TAA"
+		(property "MfrPartNo" "A104K15X7RF5TAA"
 			(at 118.11 90.17 0)
 			(effects
 				(font
@@ -4852,7 +4853,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr" " KOA Speer"
+		(property "Mfr" "KOA Speer"
 			(at 203.2 109.22 90)
 			(effects
 				(font
@@ -4861,7 +4862,7 @@
 				(hide yes)
 			)
 		)
-		(property "MfrPartNo" " MF1/4LCT52R222J"
+		(property "MfrPartNo" "MF1/4LCT52R222J"
 			(at 203.2 109.22 90)
 			(effects
 				(font

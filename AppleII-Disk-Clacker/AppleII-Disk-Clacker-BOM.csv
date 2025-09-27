@@ -1,0 +1,8 @@
+"Reference","Qty","Value","Footprint","MfrPartNo","MouserPartNo","Mfr"
+"C1","1","0.1µ","Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal","A104K15X7RF5TAA","594-A104K15X7RF5TAA","Vishay"
+"D1","1","1N4007","Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal","1N4007","637-1N4007","Diotec Semiconductor"
+"J1,J2","2","Conn_02x10_Odd_Even","Connector_IDC:IDC-Header_2x10_P2.54mm_Vertical","T821120A1S100CEU","649-T821120A1S100CEU","Amphenol"
+"K1","1","SANYOU_SRD_Form_C","Relay_THT:Relay_SPDT_SANYOU_SRD_Series_Form_C","AWHSH105D00G","523-AWHSH105D00G","Amphenol"
+"Q1","1","2N3904","Package_TO_SOT_THT:TO-92_Inline_Wide","2N3904","637-2N3904","Diotec Semiconductor"
+"R1","1","2.2k","Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal","MF1/4LCT52R222J","660-MF1/4LCT52R222J","KOA Speer"
+"U1","1","ATtiny13A-P","Package_DIP:DIP-8_W7.62mm_Socket","ATTINY13A-PU","556-ATTINY13A-PU","Microchip"
